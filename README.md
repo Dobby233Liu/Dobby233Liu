@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Liu Wenyuan.
+I'm Liu Wenyuan. In case you need to know, my pronouns are `he/him`.
 
 - ~🔭~ I’m currently working on nothing
 - ~🌱~ I’m currently learning being lazy
