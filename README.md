@@ -10,4 +10,5 @@ I'm Liu Wenyuan. In case you need to know, my pronouns are `he/him`.
   - ...through email:
     - liuwenyuanbackup@gmail.com
     - dobby233liu@cock.li (less used)
-  - ...through Discord: Dobby233Liu#1069 (`614002959663235082`. If you want to friend please provide a reason. Please also except your friend request to be rejected.)
+  - ...through Discord: Dobby233Liu#1069 (`614002959663235082`).
+    DMing me would probably work (I have no idea); if you want to friend please provide a reason, and please also except your friend request to be rejected, especially if I don't know you.
