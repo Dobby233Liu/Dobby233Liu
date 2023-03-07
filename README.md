@@ -1,8 +1,6 @@
 ### Hi 👋
 
-I'm Liu Wenyuan. Also known under a good amount of nicknames but uh, I forgot.
-
-In case you need to know, my pronouns are `he/him`.
+I'm Liu Wenyuan. Also known under some other aliases, but uh, I forgot.
 
 - ~🔭~ I’m currently working on making random stuff
 - ~🌱~ I’m currently learning about being lazy
