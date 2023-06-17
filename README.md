@@ -12,7 +12,7 @@ All of the above are jokes. Sorry for my lack of sense of humor.
 - ...through email:
   - liuwenyuanbackup@gmail.com (rarely used)
   - dobby233liu@cock.li (even less used)
-- ...through Discord: Dobby233Liu#1069 (`614002959663235082`).
+- ...through Discord: `@dobby233liu` (previously `Dobby233Liu#1069`; ID `614002959663235082`).
 
   DMing me would probably work.
-  If you want to friend, please provide a good reason, and please also except your friend request to be rejected (especially if I don't know you).
+  If you want to friend, please provide a good reason, and expect your friend request to be rejected (especially if I don't know you).
