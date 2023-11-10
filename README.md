@@ -16,3 +16,4 @@ All of the above are jokes. Sorry for my lack of sense of humor.
 
   DMing me would probably work.
   If you want to friend, please provide a good reason, and expect your friend request to be rejected (especially if I don't know you).
+  *In other words, uhh, whether I accept your FR or not, that is \*my\* decision, and don't expect it.*
