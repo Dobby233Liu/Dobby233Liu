@@ -12,6 +12,6 @@ As for why I have this many projects... well I was young and naive
 - ...through email: liuwenyuanbackup@gmail.com
 - ...through Discord: [`@dobby233liu` (`614002959663235082`)](https://discord.com/users/614002959663235082).
 
-  DMing me might work (I'm not confident).
+  DMing me might work if we share servers (which I'm not confident about).
   If you want to friend me, please provide a good reason, and expect your friend request to be rejected (especially if I don't know you).
   *How do I put this... whether I accept your FR or not, that is \*my\* decision, and don't expect it.*
