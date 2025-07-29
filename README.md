@@ -3,8 +3,8 @@
 I'm Liu Wenyuan. Also known by some other aliases which I forgot.
 
 As of now, my contribution graph in 2025 is terribly barren, mostly because
-- I'm not really concentrated on any specific projects these days (don't have a lot of motivation)
-- For projects I have been working on, even if they're source-available, I likely didn't bother to publicly publish the code here
+- I'm not really concentrated on any specific projects in the coding realm these days (don't have a lot of motivation)
+- For code projects I've been working on, even if they're source-available, I likely didn't bother to publicly publish the code here
 
 As for why I have this many projects... well I was young and naive
 
