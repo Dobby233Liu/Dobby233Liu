@@ -8,12 +8,12 @@ As of now, my contribution graph in 2025 is terribly barren, mostly because
 
 As for why I have this many repos... let's say I was young and naive
 
-I have random repos pinned below for your enjoyment or dissastifaction vv
+I have random repos pinned below for your enjoyment or dissatisfaction v v
 
 #### 📫 Contact me...
 - ...through email: liuwenyuanbackup@gmail.com
 - ...through Discord: [`@dobby233liu` (`614002959663235082`)](https://discord.com/users/614002959663235082). \
-  DMing me might work if we share servers (which I'm not confident about).
+  Message-requesting me might work if we share servers (which I'm not confident about), such as Underminers/Kristal/Halley's Comet Software/BetaWiki;
   If you want to friend me, please provide a good reason, and expect your friend request to be rejected (especially if I don't know you).
   *How do I put this... whether I accept your FR or not, that is \*my\* decision, and don't expect it.*
 - The [Issues section](https://github.com/Dobby233Liu/Dobby233Liu/issues) is certainly a way to make contact, although I most likely would miss things.
